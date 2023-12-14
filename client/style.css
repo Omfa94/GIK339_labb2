@@ -1,0 +1,15 @@
+
+h1{
+    text-align: center;
+}
+.user_card {
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    margin-inline-start: 33rem;;
+    padding: 1em;
+    font-size: larger;
+    list-style-type: none;
+    text-align: center;
+    border-radius: 1rem;;
+}
