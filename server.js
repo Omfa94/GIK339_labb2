@@ -1,3 +1,4 @@
+// uppgift 2
 const express=require("express");
 
 const server = express();
@@ -13,7 +14,7 @@ next();
 });
 
 
-
+//uppgift 2
 // Definiera en port
 const port = 3000;
 // Starta servern
